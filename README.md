@@ -4,9 +4,9 @@ To get the samples of the HDFS data:
 - https://github.com/logpai/loghub
 
 To get other data:
-	- MNIST: Keras or scikit-learn library
-	- Twitter: https://www.kaggle.com/arkhoshghalb/twitter-sentiment-analysis-hatred-speech
-	- Adult: https://archive.ics.uci.edu/ml/datasets/Adult
+- MNIST: Keras or scikit-learn library
+- Twitter: https://www.kaggle.com/arkhoshghalb/twitter-sentiment-analysis-hatred-speech
+- Adult: https://archive.ics.uci.edu/ml/datasets/Adult
 
 For the full data, access must be requested:
 - https://zenodo.org/record/3227177
